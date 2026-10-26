@@ -1,0 +1,40 @@
+# Core scientific computing
+numpy==2.0.1
+pandas==2.2.2
+scipy==1.14.0
+
+# Statistical modeling
+statsmodels==0.14.2
+pingouin==0.5.4             # Pruebas estadísticas adicionales (V de Cramér, etc.)
+
+# Survey analysis (ponderación muestral)
+survey==0.1.0               # Si disponible; alternativa: cálculos manuales con numpy
+
+# Machine learning (etapas avanzadas)
+scikit-learn==1.5.1
+
+# Visualization
+matplotlib==3.9.1
+seaborn==0.13.2
+plotly==5.23.0              # Mapas y gráficos interactivos
+
+# Geospatial (análisis territorial)
+geopandas==1.0.1
+folium==0.17.0              # Mapas interactivos
+mapclassify==2.8.0          # Clasificación coroplética
+
+# Jupyter
+jupyterlab==4.2.4
+ipywidgets==8.1.3
+
+# Data quality & validation
+missingno==0.5.2            # Visualización de valores faltantes
+great-expectations==0.18.19 # Validación de datos (opcional, avanzado)
+
+# Utilities
+tqdm==4.66.5                # Barras de progreso
+openpyxl==3.1.5             # Lectura de archivos Excel del DANE
+pyarrow==17.0.0             # Guardado eficiente en Parquet
+
+# Export
+nbconvert==7.16.4           # Convertir notebooks a PDF/HTML

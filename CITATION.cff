@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Si utiliza este código, datos procesados o análisis en su investigación, por favor cite este repositorio como se indica a continuación."
+title: "Radiografía Socioeconómica y Brecha Digital de Colombia: Análisis de Microdatos ECV 2024 (DANE)"
+abstract: "Análisis econométrico y reproducible de microdatos de la Encuesta de Calidad de Vida (ECV) 2024 del DANE para evaluar los determinantes estructurales, de capital humano y territoriales del acceso, equipamiento y uso de Internet en Colombia."
+authors:
+  - family-names: "j0thers"
+    given-names: "Jean"
+    affiliation: "Universidad de Colombia / Investigador Independiente"
+type: dataset
+version: 1.0.0
+date-released: "2026-10-26"
+license: MIT
+repository-code: "https://github.com/j0thers/ecv-brecha-digital-colombia"
+keywords:
+  - "brecha digital"
+  - "Colombia"
+  - "DANE"
+  - "ECV 2024"
+  - "econometría"
+  - "regresión logística"
+  - "diseño muestral"
+  - "capital humano"
